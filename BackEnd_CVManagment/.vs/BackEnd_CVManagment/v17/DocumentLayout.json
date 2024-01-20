@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\controllers\\degreecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\controllers\\degreecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\dtos\\degree\\degreegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\dtos\\degree\\degreegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\dtos\\degree\\degreecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\dtos\\degree\\degreecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\dtos\\candidate\\candidateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\dtos\\candidate\\candidateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\dtos\\degree\\degreeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\dtos\\degree\\degreeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\entities\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\entities\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|c:\\users\\nickbyou\\desktop\\byteassign\\backend_cvmanagment\\backend_cvmanagement\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58EE83-5D00-4F58-B6C4-7DB9AEF58E48}|BackEnd_CVManagement\\BackEnd_CVManagement.csproj|solutionrelative:backend_cvmanagement\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEnd_CVManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-20T18:03:18.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Program.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T15:22:51.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DegreeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeCreateDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeCreateDto.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeCreateDto.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T11:22:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T17:59:04.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DegreeController.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Controllers\\DegreeController.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Controllers\\DegreeController.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Controllers\\DegreeController.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Controllers\\DegreeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T10:50:17.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Entities\\Candidate.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\Entities\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T10:14:41.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateGetDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateGetDto.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateGetDto.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T11:04:23.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateCreateDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateCreateDto.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateCreateDto.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T11:02:16.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DegreeGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeGetDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeGetDto.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeGetDto.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T12:04:12.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateUpdateDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateUpdateDto.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\DTOs\\Candidate\\CandidateUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T11:16:30.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DegreeUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeUpdateDto.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeUpdateDto.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeUpdateDto.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\DTOs\\Degree\\DegreeUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T11:56:16.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Degree.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Entities\\Degree.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\Entities\\Degree.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Entities\\Degree.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\Entities\\Degree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T10:50:09.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T10:54:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperConfigProfile.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T11:11:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackEnd_CVManagement\\Core\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nickbyou\\Desktop\\ByteAssign\\BackEnd_CVManagment\\BackEnd_CVManagement\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BackEnd_CVManagement\\Core\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T11:42:51.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

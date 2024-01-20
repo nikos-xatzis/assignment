@@ -1,0 +1,6 @@
+@BackEnd_CVManagement_HostAddress = http://localhost:5064
+
+GET {{BackEnd_CVManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
